@@ -1,0 +1,1 @@
+# guarde nessa pasta apenas arquivos produzidos com um editor de linguagem de programação
