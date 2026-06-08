@@ -1,5 +1,3 @@
-# 3sir_projetoGitFlow
-
 # FireWatch AI
 
 ## Integrantes
